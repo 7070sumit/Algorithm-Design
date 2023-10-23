@@ -11,7 +11,7 @@ public class _01_Sum_of_Numbers {
             arr[i] = sc.nextInt();
         }
         int a = Sum_of_numbers(arr);
-        System.out.println("Sum of the given Array==" + a);
+        System.out.println("Sum of the given Array=" + a);
     }
 
     public static int Sum_of_numbers(int arr[]) {
