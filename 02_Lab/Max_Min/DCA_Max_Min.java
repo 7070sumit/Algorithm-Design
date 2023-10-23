@@ -1,3 +1,5 @@
+//Divide and Conquer approch for finding Maximum and Minuimum element in a given array.
+
 package Max_Min;
 
 import java.util.Scanner;
