@@ -1,6 +1,6 @@
 //Linear search approch for finding Maximum and Minimum element of a given array. 
 
-package Max_Min;
+package _02_Max_Min;
 
 import java.util.Scanner;
 
